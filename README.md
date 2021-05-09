@@ -1,10 +1,8 @@
 # Snake-20020205
 * Các thư viện đã dùng:
-      - SDL2: https://www.libsdl.org/download-2.0.php
-      - 
-      - SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/ (thư viện tải font chữ)
-      - 
-      - SDL2_mixer : https://www.libsdl.org/projects/SDL_mixer/ (thư viện tải âm thanh)
+      - SDL2: https://www.libsdl.org/download-2.0.php                                                                     
+      - SDL2_ttf : https://www.libsdl.org/projects/SDL_ttf/ (thư viện tải font chữ)                                                                                 
+      - SDL2_mixer : https://www.libsdl.org/projects/SDL_mixer/ (thư viện tải âm thanh)                                                                     
       - 
 * Thuật toán :
       -Thuật toán di chuyển được dựa trên code Key Bord của thầy Hiếu
