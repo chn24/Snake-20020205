@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620561028 source:d:\aa_ltrinhgame\lam_game\lam_game.cpp
+	<iostream>
+	<SDL.h>
+	<bits/stdc++.h>
+	"SDL_mixer.h"
+	<SDL_ttf.h>
+
+1614926634 source:d:\aa_ltrinhgame\lam_game\lam_game2.cpp
+	<iostream>
+	<SDL.h>
+	<bits/stdc++.h>
+
